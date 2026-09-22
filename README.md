@@ -1,1 +1,1 @@
-Victoria Phan + 1002123735 + BIOL3340-001
+Victoria Phan + 1002123735 + BIOL5340-001
