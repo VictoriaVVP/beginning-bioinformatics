@@ -1,4 +1,6 @@
 # AI Use Log
+
+## Week 3
 - Tool/model & version: Gemini is the only LLM that was used. 
 - What I asked for: I asked Gemini to modify my code and the lecture code in order to complete Rosalind questions. 
 - Snippet of prompt(s):
@@ -36,4 +38,12 @@ for word in line.split():
 _ Problem #9: I copy and pasted the Rosalind question into Gemini and asked it to code for me because I am not familiar with biopython function and library. 
 
 - What I changed before committing: Added code from the Rosalind homework. Within the code, I added comments on what I learned from how Gemini edited my code.
-- How I verified correctness (test, sample data): To get the files that I used to test out on my code, I downloaded the submission files from Rosalind and input it in my code to verify correctness. If the answer was wrong, modifications would be made by either me or Gemini. 
+- How I verified correctness (test, sample data): To get the files that I used to test out on my code, I downloaded the submission files from Rosalind and input it in my code to verify correctness. If the answer was wrong, modifications would be made by either me or Gemini.
+
+
+## Week 5
+- I mainly used AI to understand and interpret the MUSCLE 'efastats' output.
+- ChatGPT helped me understand the instructions for running MAFFT in Colab.
+- Interpret MAFFT output
+- Compare the 2 alignment programs to get reassurance that the alignment was not the same. 
+- Troubleshoot GitHub and instructed me on how to submit, create tags and push the notebook onto GitHub. 
