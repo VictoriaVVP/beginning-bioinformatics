@@ -47,3 +47,7 @@ _ Problem #9: I copy and pasted the Rosalind question into Gemini and asked it t
 - Interpret MAFFT output
 - Compare the 2 alignment programs to get reassurance that the alignment was not the same. 
 - Troubleshoot GitHub and instructed me on how to submit, create tags and push the notebook onto GitHub. 
+
+## Week 7
+- No AI was used for this assignment.
+- Assignment was completed outside of class while watching the lecture videos.
